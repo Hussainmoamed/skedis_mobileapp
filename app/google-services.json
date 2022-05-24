@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240284210815",
+    "firebase_url": "https://skedis-62cba.firebaseio.com",
+    "project_id": "skedis-62cba",
+    "storage_bucket": "skedis-62cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240284210815:android:686b8e5206866eb470914a",
+        "android_client_info": {
+          "package_name": "com.gravitykey.in.skedis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240284210815-357dn347r8f8ia9lkrkujiue7cfjbabj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gravitykey.in.skedis",
+            "certificate_hash": "0a093b286fa0dcd5d215f07aace3bfc7f69e971f"
+          }
+        },
+        {
+          "client_id": "240284210815-7p9e27pfav69gir8tt6agpmoeocbrp5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA20yGXJ4mzr-465ghxi0DcHl9ioXqBLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240284210815-7p9e27pfav69gir8tt6agpmoeocbrp5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
